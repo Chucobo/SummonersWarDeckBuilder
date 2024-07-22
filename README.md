@@ -2,6 +2,11 @@
 
 Tool created in visual studio to quickly check drafting of units for siege. The user will input the enemies defense team and it will show their buffs, debuffs and any extra effects/archetypes. The user will then be able to input their own team and have their details appear and then used to compare against the enemy defense.
 
+## Environment
+
+- **Visual Studio Version:** 2022
+- **.NET Framework Version:** .NET 8.0
+  
 ## Features
 ### Complete
 
